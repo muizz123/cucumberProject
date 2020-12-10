@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="28.153959">
+<testcase classname="Surching Product" name="User Shouldbe able to surch product by name" time="9.724901">
+<system-out><![CDATA[Given User is on landing page...............................................passed
+When User type "Cucumber" on surch box......................................passed
+Then "Cucumber" should be display on the list...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Surching Product" name="User Shouldbe able to surch product by name 2" time="9.959066">
+<system-out><![CDATA[Given User is on landing page...............................................passed
+When User type "Brocolli" on surch box......................................passed
+Then "Brocolli" should be display on the list...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Surching Product" name="User Shouldbe able to surch product by name 3" time="8.469992">
+<system-out><![CDATA[Given User is on landing page...............................................passed
+When User type "Tomato" on surch box........................................passed
+Then "Tomato" should be display on the list.................................passed
+]]></system-out>
+</testcase>
+</testsuite>
